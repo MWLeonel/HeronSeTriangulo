@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\bin\Debug\netcoreapp3.1\HeronSeTriangulo.exe
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\bin\Debug\netcoreapp3.1\HeronSeTriangulo.deps.json
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\bin\Debug\netcoreapp3.1\HeronSeTriangulo.runtimeconfig.json
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\bin\Debug\netcoreapp3.1\HeronSeTriangulo.runtimeconfig.dev.json
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\bin\Debug\netcoreapp3.1\HeronSeTriangulo.dll
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\bin\Debug\netcoreapp3.1\HeronSeTriangulo.pdb
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.AssemblyInfo.cs
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.dll
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.pdb
+C:\Users\Max\Desktop\HeronSeTriangulo\HeronSeTriangulo\obj\Debug\netcoreapp3.1\HeronSeTriangulo.genruntimeconfig.cache
